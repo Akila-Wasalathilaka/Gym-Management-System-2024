@@ -48,7 +48,7 @@ The home dashboard provides a central hub for managing gym activities:
 - View active memberships and payments.
 - Access class schedules.
 - Manage gym settings and staff details.
-
+   ![Alt text](interfaces/home.png)
 ## Contribution
 
 Feel free to contribute to this project! Fork the repository, make changes, and submit a pull request.
