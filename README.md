@@ -10,20 +10,19 @@
 
 ## Features
 
-- **Login System**: Secure login for gym members and staff.
+- **Login System**: Secure login for gym owner.
 - **Member Management**: Add, update, and delete members from the system.
-- **Class Scheduling**: Manage gym classes and schedule training sessions.
 - **Payment Processing**: Handle membership and class payments.
-- **Home Dashboard**: Overview of current gym operations and member activities.
+- **Home Dashboard**
 
 ## Interfaces for Each Section
 
 ### Login Interface
 
 The login functionality allows gym staff and members to sign in securely. The login form includes:
-- Username
-- Password
-- Login button
+- Username - "gms"
+- Password _ "admin"
+
 
 ### Member Management Interface
 
@@ -31,13 +30,6 @@ This section allows gym administrators to manage member data:
 - Add a new member to the gym.
 - View and edit existing member details.
 - Delete members when needed.
-
-### Class Scheduling Interface
-
-This section allows the gym to manage classes and training schedules:
-- Add new classes (e.g., yoga, weight training, cardio).
-- Update class details (e.g., timing, instructor).
-- Cancel or modify existing classes.
 
 ### Payment Interface
 
