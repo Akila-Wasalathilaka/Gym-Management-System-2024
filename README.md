@@ -32,7 +32,7 @@ This section allows gym administrators to manage member data:
 - Add a new member to the gym.
 - View and edit existing member details.
 - Delete members when needed.
-   ![Alt text](interfaces/listofmembers)
+   ![Alt text](interfaces/list_of_members.png)
 
 ### Payment Interface
 
