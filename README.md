@@ -5,7 +5,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone <[repository-url](https://github.com/Akila-Wasalathilaka/Gym-Management-System-2024.git)>
+   repository-url](https://github.com/Akila-Wasalathilaka/Gym-Management-System-2024.git
    ```
 
 2. Install dependencies (if applicable):
