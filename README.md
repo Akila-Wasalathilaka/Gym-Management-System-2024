@@ -7,17 +7,7 @@
    ```bash
    https://github.com/Akila-Wasalathilaka/Gym-Management-System-2024.git
    ```
-
-2. Install dependencies (if applicable):
-   ```bash
-   <dependency-installation-commands>
-   ```
-
-3. Run the project:
-   ```bash
-   <run-command>
-   ```
-
+```
 ## Features
 
 - **Login System**: Secure login for gym members and staff.
