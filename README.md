@@ -33,7 +33,8 @@ This section allows gym administrators to manage member data:
 - View and edit existing member details.
 - Delete members when needed.
    ![Alt text](interfaces/list%20of%20members.png)
-
+   ![Alt text](interfaces/new%20member.png)
+   ![Alt text](interfaces/update%20of%20member.png)
 ### Payment Interface
 
 Handles payments for gym memberships and classes:
