@@ -1,28 +1,7 @@
 ### README.md
 
 ```markdown
-# Gym Management System
-
-## Description
-
-The Gym Management System is a comprehensive application designed to manage the gym's daily operations, including member registrations, class scheduling, payment processing, and user management. The system provides an easy-to-use interface for gym owners and staff to streamline operations and track member progress.
-
-## Project Structure
-
-The project directory consists of the following key sections:
-
-- **images**: Contains image files used in the project (e.g., logos, icons, and other media).
-- **project**: Core functionality files related to the system's operations.
-- **ListOfMembers.class**: Class files for managing the list of gym members.
-- **NewMember.class**: Class files for adding new members to the gym.
-- **UpdateDeleteMember.class**: Class files for updating and deleting member records.
-- **home.class**: The main interface or dashboard for gym operations.
-- **logn.class**: Class files for the login functionality for staff and members.
-- **payment.class**: Class files for handling payments for memberships, classes, or other services.
-
-## Setup and Installation
-
-To set up and run this project on your local machine:
+```
 
 1. Clone the repository:
    ```bash
