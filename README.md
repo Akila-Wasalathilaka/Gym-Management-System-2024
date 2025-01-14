@@ -62,13 +62,9 @@ This project is licensed under the MIT License.
 2. **Member Management Interface**:
    - Create forms to add, update, and delete member information (name, contact info, membership status, etc.).
 
-3. **Class Scheduling Interface**:
-   - Implement a scheduling system to manage gym classes (e.g., time, type, instructor). Use calendars or tables for displaying schedules.
-
-4. **Payment Interface**:
+3. **Payment Interface**:
    - Create a form for collecting payment details (credit card, billing address, etc.). Integrate it with payment gateways for processing.
 
-5. **Home Dashboard Interface**:
+4. **Home Dashboard Interface**:
    - Design a dashboard that shows a summary of gym operations, such as active memberships, upcoming classes, and payment statuses.
 
-Let me know if you'd like further customization or help with any part of the implementation!
