@@ -22,6 +22,8 @@
 The login functionality allows gym staff and members to sign in securely. The login form includes:
 - Username - "gms"
 - Password _ "admin"
+ ![Alt text](interfaces/login.png)
+
 
 
 ### Member Management Interface
