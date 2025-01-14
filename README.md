@@ -7,7 +7,7 @@
    ```bash
    https://github.com/Akila-Wasalathilaka/Gym-Management-System-2024.git
    ```
-```
+
 ## Features
 
 - **Login System**: Secure login for gym members and staff.
@@ -60,7 +60,7 @@ Feel free to contribute to this project! Fork the repository, make changes, and 
 ## License
 
 This project is licensed under the MIT License.
-```
+
 
 ### Next Steps for the Interfaces:
 
