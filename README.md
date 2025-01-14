@@ -34,14 +34,14 @@ This section allows gym administrators to manage member data:
 - Delete members when needed.
    ![Alt text](interfaces/list%20of%20members.png)
    ![Alt text](interfaces/new%20member.png)
-   ![Alt text](interfaces/update%20of%20member.png)
+   ![Alt text](interfaces/update%20member.png)
 ### Payment Interface
 
 Handles payments for gym memberships and classes:
 - Payment method selection (Credit/Debit Card, PayPal, etc.).
 - Billing information collection.
 - Payment confirmation and transaction history.
-
+   ![Alt text](interfaces/payments.png)
 ### Home Dashboard Interface
 
 The home dashboard provides a central hub for managing gym activities:
